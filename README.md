@@ -1,5 +1,5 @@
 # Countries And Cities
-A list of all world countries and cities stored in JSON format.
+A list of world all countries and cities stored in JSON format.
 
 ## Download
 - File name: `countries_cities.json`
